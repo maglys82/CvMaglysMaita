@@ -10,10 +10,11 @@
     
   }
 
-            
-  .shadowed-line {
-    border-bottom: 1px solid gray;
-    box-shadow: 0px 2px 4px gray;
-  }    
+  #experiencia-laboral> h6{
+    color: white;
+  }
   
-  
+  .my-3{
+
+    color: white;
+  }
