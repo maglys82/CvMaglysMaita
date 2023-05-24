@@ -7,7 +7,6 @@
 
 .contact-info {
   color: white;
-
 }
 
 #experiencia-laboral>h6 {
@@ -15,23 +14,20 @@
 }
 
 .my-3 {
+color: white;
 
-  color: white;
 }
 
 #cursos .image-top {
   height: 310px;
   background-repeat: no-repeat;
   background-size: cover;
-
 }
  
-
 .portafolio img {
   width: 350px;
   height: 300px;
   border-radius: 10%;
-
 }
 
 .pages-portafolio {
@@ -42,5 +38,4 @@
 
 .container{
   border-radius: 10%;
-
 }
