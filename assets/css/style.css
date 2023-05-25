@@ -1,29 +1,28 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
-
 
 .contact-info {
   color: white;
 }
 
-#experiencia-laboral>h6 {
+#experiencia-laboral > h6 {
   color: white;
 }
 
 .my-3 {
-color: white;
-
+  color: white;
 }
 
 #cursos .image-top {
   height: 310px;
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
- 
+
 .portafolio img {
   width: 350px;
   height: 300px;
@@ -32,10 +31,8 @@ color: white;
 
 .pages-portafolio {
   gap: 2rem;
-  
 }
 
-.container{
+.container {
   border-radius: 10%;
 }
-
